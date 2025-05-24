@@ -28,7 +28,7 @@ module.exports = async (context) => {
   const name = m.pushName || client.getName(m.sender);
   const url = 'https://github.com/Conway-eng/EMINEM-MD';
   const murl = 'https://whatsapp.com/channel/0029VbAVuiVBPzjdU7EVNw0t';
-  const img = 'https://i.imgur.com/vTs9acV.jpeg';
+  const img = 'https://files.catbox.moe/ktqas9.jpg';
 
   // Constructing the contact message
   const con = {
